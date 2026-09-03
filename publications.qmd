@@ -8,7 +8,7 @@ description: "Publications and scholarly profiles for Xiang He."
 
 ## Publications forthcoming
 
-I do not yet have publications to list. This page will be updated as manuscripts and published work become available.
+- Gianni, G., **He, X.**, Becker, T.W., and Faccenna, C.: Western Pacific double-subduction drives Gulf of Californnia rifting. *Science*, 2026. 
 
 ::: {.profile-row}
 [ORCID](https://orcid.org/0009-0009-5857-9100){.btn .btn-primary}
