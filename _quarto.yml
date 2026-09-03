@@ -12,7 +12,7 @@ project:
 website:
   title: "Xiang He"
   favicon: assets/favicon.png
-  site-url: "https://hx38324.github.io/my-github-page.github.io"
+  site-url: "https://hx38324.github.io/hx38324.github.io"
   description: "Geodynamics PhD student studying subduction, lithospheric deformation, mantle rheology, dynamic topography, and vertical crustal motion."
   image: assets/og-image.jpg
   open-graph: true
@@ -45,7 +45,7 @@ website:
         aria-label: ORCID
   page-footer:
     left: "© 2026 Xiang He"
-    center: "Computational geodynamics · UT Austin"
+    center: "Computational geodynamics"
     right:
       - text: ORCID
         href: https://orcid.org/0009-0009-5857-9100
