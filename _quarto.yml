@@ -45,7 +45,7 @@ website:
         aria-label: ORCID
   page-footer:
     left: "© 2026 Xiang He"
-    center: "Computational geodynamics · UT Austin"
+    center: "Computational geodynamics"
     right:
       - text: ORCID
         href: https://orcid.org/0009-0009-5857-9100
