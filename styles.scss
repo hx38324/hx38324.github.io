@@ -633,11 +633,43 @@ li {
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
+/*@media (prefers-reduced-motion: reduce) {
   *,
   *::before,
   *::after {
     scroll-behavior: auto !important;
     transition-duration: 0.01ms !important;
+  }
+}*/
+/* Only adjust the layout on large desktop screens */
+@media (min-width: 1600px) {
+  .hero-grid {
+    width: 100%;
+    max-width: 1700px;
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    gap: 4rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+
+  .hero-grid::before {
+    left: 4rem;
+  }
+
+  .hero-copy h1 {
+    font-size: 5.5rem;
+    max-width: none;
+  }
+
+  .hero-visual {
+    justify-self: end;
+    width: 100%;
+    max-width: 650px;
+  }
+
+  .hero-image {
+    width: 100%;
+    max-height: 75vh;
+    object-fit: cover;
   }
 }
