@@ -1,0 +1,40 @@
+---
+title: "Contact"
+description: "Contact information and academic profiles for Xiang He at the University of Texas at Austin."
+---
+
+:::: {.contact-grid}
+::: {.contact-copy}
+<p class="eyebrow">Get in touch</p>
+
+## Research conversations and collaboration
+
+I welcome conversations about computational geodynamics, subduction, mantle flow, dynamic topography, and vertical crustal motion.
+
+[Email me](mailto:hexiang@utexas.edu){.btn .btn-primary .btn-lg}
+:::
+
+::: {.contact-details}
+### Xiang He
+
+Institute for Geophysics & Department of Earth and Planetary Sciences  
+Jackson School of Geosciences  
+The University of Texas at Austin  
+Texas, US
+
+---
+
+**Email**  
+[hexiang@utexas.edu](mailto:hexiang@utexas.edu)
+
+**Research identity**  
+[ORCID 0009-0009-5857-9100](https://orcid.org/0009-0009-5857-9100)
+
+**Code**  
+[github.com/hx38324](https://github.com/hx38324)
+
+**Google Scholar**  
+Profile coming soon
+:::
+::::
+

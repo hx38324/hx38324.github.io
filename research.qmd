@@ -1,0 +1,78 @@
+---
+title: "Research"
+description: "Xiang He's research themes in subduction, lithospheric deformation, mantle rheology, dynamic topography, and vertical crustal motion."
+---
+
+<p class="page-lead">I study how deep-Earth dynamics are expressed through deformation and motion at the surface. My approach is computational: build geodynamic models, test their behavior, and interpret them under constraints from geology, geophysics, and geochemistry.</p>
+
+## Current focus
+
+At the University of Texas at Austin, I am setting up global mantle-flow models to investigate the deep mantle's contribution to surface vertical signals. My doctoral interests center on Cascadia subduction and the connections among lithospheric deformation, mantle rheology, dynamic topography, and vertical crustal motion.
+
+::: {.research-notice}
+This page describes research questions and work in progress. It does not present unpublished results as established findings.
+:::
+
+::: {.research-grid}
+::: {.research-card}
+<p class="eyebrow">Subduction systems</p>
+
+### Cascadia
+
+How do subduction-zone structure and mantle flow contribute to regional patterns of deformation and vertical motion?
+:::
+
+::: {.research-card}
+<p class="eyebrow">Solid Earth mechanics</p>
+
+### Lithospheric deformation
+
+How does the lithosphere respond to forces transmitted through plates and the convecting mantle across different spatial and temporal scales?
+:::
+
+::: {.research-card}
+<p class="eyebrow">Material behavior</p>
+
+### Mantle rheology
+
+How do assumptions about mantle viscosity and deformation influence modeled flow and its predicted surface expression?
+:::
+
+::: {.research-card}
+<p class="eyebrow">Deep-to-surface coupling</p>
+
+### Dynamic topography
+
+How does mantle flow support or modify long-wavelength topography, and how can those signals be distinguished from other processes?
+:::
+
+::: {.research-card}
+<p class="eyebrow">Surface observables</p>
+
+### Vertical crustal motion
+
+What can present-day and geological vertical-motion signals reveal about the forces and flow operating below the surface?
+:::
+:::
+
+## Methods
+
+::: {.method-band}
+::: {.method-copy}
+My research uses numerical models to simulate geodynamic processes under observational constraints. The modeling toolkit documented in my CV includes CitcomS and ASPECT for geodynamics, GMT6 for geospatial analysis and visualization, and GPlates for plate-tectonic reconstruction.
+:::
+
+::: {.method-list}
+- Global and regional mantle-flow modeling
+- Three-dimensional geodynamic simulations
+- Data assimilation and lateral viscosity structure
+- Geological and geophysical interpretation
+:::
+:::
+
+## Research background
+
+Before beginning my PhD, I worked on regional deformation in East Asia, numerical models of planetary crust formation, and plume-subduction coupling in the Tethys realm. These projects developed my interest in connecting mantle dynamics, plate motion, and surface deformation across scales.
+
+[Read about these projects →](projects.qmd){.text-link}
+

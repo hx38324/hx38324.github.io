@@ -1,0 +1,88 @@
+---
+title: "Curriculum Vitae"
+description: "Education, research experience, awards, teaching, and technical skills for Xiang He."
+---
+
+::: {.cv-intro}
+::: {.cv-intro-copy}
+<p class="page-lead">PhD student in geosciences at the University of Texas at Austin, working in computational geodynamics.</p>
+
+[Download the September 2024 CV](assets/Xiang_He_CV_September2024.pdf){.btn .btn-primary download="Xiang_He_CV_September2024.pdf"}
+:::
+
+::: {.cv-contact}
+[hexiang@utexas.edu](mailto:hexiang@utexas.edu)  
+[ORCID](https://orcid.org/0009-0009-5857-9100) · [GitHub](https://github.com/hx38324)
+:::
+:::
+
+## Education
+
+::: {.timeline}
+::: {.timeline-item}
+<span class="timeline-date">Aug 2024–present</span>
+
+### PhD in Geosciences
+
+**The University of Texas at Austin** · Texas, US
+:::
+
+::: {.timeline-item}
+<span class="timeline-date">Sep 2020–Jun 2024</span>
+
+### BS in Geophysics
+
+**University of Science and Technology of China** · Hefei, Anhui
+:::
+:::
+
+## Research experience
+
+::: {.cv-compact-list}
+**UT Austin Jackson School of Geosciences** · Aug 2024–present  
+Global mantle-flow modeling · Advised by Prof. Thorsten Becker
+
+**UIUC Department of Earth Science and Environmental Change** · May–Oct 2023  
+3D regional modeling of intraplate deformation in East Asia · Advised by Prof. Lijun Liu
+
+**USTC School of Earth and Space Sciences** · Jan–Aug 2023  
+Rock dynamics simulation of planetary crust formation · Advised by Prof. Wei Leng
+
+**USTC School of Earth and Space Sciences** · Apr 2022–Jun 2024  
+African plume influence on Tethys evolution · Advised by Prof. Jinshui Huang
+:::
+
+## Awards and grants
+
+- Guo Moruo Scholarship (2024, USTC)
+- China National Scholarship (2023, top 0.2% in China)
+- Yang Yongman Scholarship (2023, USTC)
+- USTC Outstanding Student Scholarship Gold Medal (2022, top 3% in USTC)
+- USTC Outstanding Student Scholarship Silver Medal (2021, top 10% in USTC)
+- First Prize in Natural Science Electromagnetics Essay Competition (2022, USTC)
+- Zhao Jiuzhang Earth Science Honored Class Scholarship (2021 and 2022)
+
+## Teaching
+
+**Teaching Assistant, Electromagnetism A (PHYS1004A.04.2023SP)**  
+University of Science and Technology of China · Mar–Jun 2023  
+Instructor: Prof. Gan Qin
+
+## Technical skills
+
+::: {.skill-grid}
+::: {.skill-group}
+<span class="fact-label">Programming</span>
+
+C · MATLAB · Fortran · Python
+:::
+
+::: {.skill-group}
+<span class="fact-label">Software</span>
+
+CitcomS · GMT6 · ASPECT · GPlates
+:::
+:::
+
+<p class="small-note">This web CV summarizes the attached September 2024 document. The downloadable PDF preserves the original full wording and layout.</p>
+

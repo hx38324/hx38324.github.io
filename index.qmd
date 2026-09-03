@@ -1,0 +1,103 @@
+---
+title: "Xiang He"
+pagetitle: "Xiang He | Geodynamics"
+description: "Geodynamics PhD student at the University of Texas at Austin studying deep-Earth processes and vertical motion at the surface."
+image: assets/og-image.jpg
+page-layout: full
+title-block-style: none
+---
+
+<style>
+.quarto-title-block { display: none; }
+</style>
+
+:::: {.hero-grid}
+::: {.hero-copy}
+<p class="eyebrow">Geodynamics · UT Austin</p>
+
+# From deep mantle flow to a moving surface
+
+I am a PhD student in geosciences studying how subduction, lithospheric deformation, and mantle rheology shape dynamic topography and vertical crustal motion.
+
+::: {.hero-actions}
+[Explore my research](research.qmd){.btn .btn-primary .btn-lg}
+[View my CV](cv.qmd){.btn .btn-outline-primary .btn-lg}
+:::
+
+<p class="hero-affiliation">Institute for Geophysics & Department of Earth and Planetary Sciences<br>Jackson School of Geosciences · The University of Texas at Austin</p>
+:::
+
+::: {.hero-visual}
+<img src="assets/geodynamics-hero.webp" class="hero-image" alt="Conceptual Earth-science illustration showing ocean, mountain topography, and layered deep-Earth flow in muted blue and terracotta." width="1680" height="945" fetchpriority="high">
+
+<p class="figure-note">Conceptual illustration, not a model result.</p>
+:::
+::::
+
+:::: {.home-section}
+::: {.section-heading}
+<p class="eyebrow">Research direction</p>
+
+## Connecting the deep Earth to observable motion
+
+My work uses computational models, informed by geological, geophysical, and geochemical observations, to investigate large-scale geodynamic evolution.
+:::
+
+::: {.focus-grid}
+::: {.focus-card}
+<span class="card-index">01</span>
+
+### Cascadia & subduction
+
+Investigating how subduction-system dynamics and the surrounding mantle relate to deformation and vertical motion.
+:::
+
+::: {.focus-card}
+<span class="card-index">02</span>
+
+### Mantle rheology
+
+Exploring how the mechanical behavior and flow of the mantle influence long-wavelength surface signals.
+:::
+
+::: {.focus-card}
+<span class="card-index">03</span>
+
+### Dynamic topography
+
+Studying links between deep mantle flow, lithospheric response, topography, and vertical crustal motion.
+:::
+:::
+
+<p class="section-link">[See research themes and methods →](research.qmd)</p>
+::::
+
+:::: {.home-section .home-section-alt}
+::: {.section-heading}
+<p class="eyebrow">Current work</p>
+
+## Global mantle-flow modeling
+
+At UT Austin, advised by Prof. Thorsten Becker, I am setting up global mantle-flow models to investigate the deep mantle's contribution to surface vertical signals.
+:::
+
+::: {.fact-grid}
+::: {.fact-item}
+<span class="fact-label">Approach</span>
+
+Computational geodynamics
+:::
+
+::: {.fact-item}
+<span class="fact-label">Languages</span>
+
+C · MATLAB · Fortran · Python
+:::
+
+::: {.fact-item}
+<span class="fact-label">Software</span>
+
+CitcomS · GMT6 · ASPECT · GPlates
+:::
+:::
+::::

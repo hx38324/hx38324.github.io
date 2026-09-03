@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - publications.qmd
+    - projects.qmd
+    - cv.qmd
+    - contact.qmd
+
+website:
+  title: "Xiang He"
+  favicon: assets/favicon.png
+  site-url: "https://hx38324.github.io/my-github-page.github.io"
+  description: "Geodynamics PhD student studying subduction, lithospheric deformation, mantle rheology, dynamic topography, and vertical crustal motion."
+  image: assets/og-image.jpg
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    pinned: true
+    title: "Xiang He"
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/hx38324
+        aria-label: GitHub
+      - icon: person-circle
+        href: https://orcid.org/0009-0009-5857-9100
+        aria-label: ORCID
+  page-footer:
+    left: "© 2026 Xiang He"
+    center: "Computational geodynamics · UT Austin"
+    right:
+      - text: ORCID
+        href: https://orcid.org/0009-0009-5857-9100
+      - text: GitHub
+        href: https://github.com/hx38324
+
+format:
+  html:
+    theme: styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+
+resources:
+  - assets/**
+  - .nojekyll
+
+execute:
+  freeze: auto
+
+lang: en

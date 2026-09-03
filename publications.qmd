@@ -1,0 +1,25 @@
+---
+title: "Publications"
+description: "Publications and scholarly profiles for Xiang He."
+---
+
+::: {.empty-state}
+<p class="eyebrow">Publication record</p>
+
+## Publications forthcoming
+
+I do not yet have publications to list. This page will be updated as manuscripts and published work become available.
+
+::: {.profile-row}
+[ORCID](https://orcid.org/0009-0009-5857-9100){.btn .btn-primary}
+<span class="profile-placeholder" aria-label="Google Scholar profile coming soon">Google Scholar · profile coming soon</span>
+:::
+:::
+
+## Citation identity
+
+**Xiang He**  
+[ORCID 0009-0009-5857-9100](https://orcid.org/0009-0009-5857-9100)
+
+<p class="small-note">A Google Scholar link is intentionally left as a placeholder until a profile is created.</p>
+

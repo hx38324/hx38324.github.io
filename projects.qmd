@@ -1,0 +1,65 @@
+---
+title: "Projects"
+description: "Current and previous computational geodynamics projects by Xiang He."
+---
+
+<p class="page-lead">My projects span global mantle flow, continental deformation, crust formation, and plume-subduction interactions. The summaries below are based on my September 2024 CV; current doctoral topics are described as ongoing work.</p>
+
+::: {.project-list}
+::: {.project-entry .project-current}
+::: {.project-meta}
+<span class="status-chip">Current</span>
+<span>Aug 2024–present</span>
+:::
+
+### Global mantle-flow modeling
+
+**UT Austin Jackson School of Geosciences · Texas, US**  
+Advised by Prof. Thorsten Becker
+
+Setting up global mantle-flow models to investigate the deep mantle's contribution to surface vertical signals.
+:::
+
+::: {.project-entry}
+::: {.project-meta}
+<span>Research experience</span>
+<span>May–Oct 2023</span>
+:::
+
+### Intraplate deformation within East Asia
+
+**UIUC Department of Earth Science and Environmental Change · Remote**  
+Advised by Prof. Lijun Liu
+
+Built a three-dimensional regional model incorporating continental faults and lateral viscosity heterogeneity through data assimilation. The 2023 results indicated the significance of faults for intraplate deformation and suggested sinistral transpression along the Tan-Lu Fault, while not explaining its geological-time dextral transtension.
+:::
+
+::: {.project-entry}
+::: {.project-meta}
+<span>Course project & undergraduate thesis</span>
+<span>Jan–Aug 2023</span>
+:::
+
+### Rock dynamics simulation of planetary crust formation
+
+**USTC School of Earth and Space Sciences · Hefei, Anhui**  
+Advised by Prof. Wei Leng, in collaboration with Zhiyi Chen
+
+Used changes in mantle-convection vigor to investigate two-stage planetary crust growth. The work related integrated melting to a crust-growth curve and extended to a hydrated-plume model for ancient continental crust formation. The model results indicated that generating continental crust was nearly impossible with a dry plume, pointing to the importance of deep water in the modeled process.
+:::
+
+::: {.project-entry}
+::: {.project-meta}
+<span>Research experience</span>
+<span>Apr 2022–Jun 2024</span>
+:::
+
+### African plume influence on Tethys evolution
+
+**USTC School of Earth and Space Sciences · Hefei, Anhui**  
+Advised by Prof. Jinshui Huang
+
+Investigated whether the Réunion plume contributed to India's two-stage high-velocity motion toward Eurasia. A coupled plume and double-subduction model better matched the convergence history in the transition between stages, supporting a short-lived but strong plume-push contribution in the model.
+:::
+:::
+
