@@ -37,8 +37,7 @@ jobs:
       # --------------------------------------------------
       - name: Copy CV into website
         run: |
-          mkdir -p assets/cv
-          cp cv/cv.pdf assets/cv/Xiang_He_CV.pdf
+          cp cv/cv.pdf assets/Xiang_He_CV.pdf
 
       # --------------------------------------------------
       # 3. Build Quarto website

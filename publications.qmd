@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-bibliography: publications.bib
+bibliography: cv/publications.bib
 nocite: |
   @*
 ---
