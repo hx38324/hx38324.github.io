@@ -1,11 +1,8 @@
 ---
-title: "Publications"
 bibliography: cv/publications.bib
 nocite: |
   @*
 ---
-
-This page is generated from the same `publications.bib` file used by the LaTeX CV.
 
 ## Publications
 
