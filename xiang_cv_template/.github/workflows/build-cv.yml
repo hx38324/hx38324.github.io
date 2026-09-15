@@ -1,0 +1,36 @@
+name: Build CV
+
+on:
+  push:
+    paths:
+      - 'cv/**'
+      - '.github/workflows/build-cv.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-cv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compile LaTeX CV
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: cv.tex
+          working_directory: cv
+          latexmk_use_lualatex: false
+          args: -pdf -file-line-error -halt-on-error -interaction=nonstopmode
+
+      - name: Copy PDF into website assets
+        run: |
+          mkdir -p assets/cv
+          cp cv/cv.pdf assets/cv/Xiang_He_CV.pdf
+
+      - name: Commit updated CV PDF
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-build CV PDF"
+          file_pattern: assets/cv/Xiang_He_CV.pdf

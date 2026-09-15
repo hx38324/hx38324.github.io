@@ -7,7 +7,7 @@ description: "Education, research experience, awards, teaching, and technical sk
 ::: {.cv-intro-copy}
 <p class="page-lead">PhD student in geosciences at the University of Texas at Austin, working in computational geodynamics.</p>
 
-[Download the September 2024 CV](assets/Xiang_He_CV_September2024.pdf){.btn .btn-primary download="Xiang_He_CV_September2024.pdf"}
+[Download Full CV](assets/Xiang_He_CV.pdf){.btn .btn-primary target="_blank"}
 :::
 
 ::: {.cv-contact}

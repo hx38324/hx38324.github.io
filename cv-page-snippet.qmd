@@ -1,0 +1,15 @@
+---
+title: "Curriculum Vitae"
+---
+
+I am a Ph.D. candidate in geosciences at The University of Texas at Austin, working in computational geodynamics.
+
+[**Download current CV (PDF)**](assets/cv/Xiang_He_CV.pdf){.btn .btn-primary}
+
+## Research focus
+
+Computational geodynamics · mantle flow · subduction · dynamic topography · vertical crustal motion · scientific computing
+
+## Publications
+
+For a publication list generated from the same bibliography used by my CV, see [Publications](publications.qmd).

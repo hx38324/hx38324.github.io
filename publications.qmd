@@ -1,25 +1,13 @@
 ---
 title: "Publications"
-description: "Publications and scholarly profiles for Xiang He."
+bibliography: publications.bib
+nocite: |
+  @*
 ---
 
-::: {.empty-state}
-<p class="eyebrow">Publication record</p>
+This page is generated from the same `publications.bib` file used by the LaTeX CV.
 
-## Publications forthcoming
+## Publications
 
-- Gianni, G., **He, X.**, Becker, T.W., and Faccenna, C.: Western Pacific double-subduction drives Gulf of Californnia rifting. *Science*, 2026. 
-
-::: {.profile-row}
-[ORCID](https://orcid.org/0009-0009-5857-9100){.btn .btn-primary}
-<span class="profile-placeholder" aria-label="Google Scholar profile coming soon">Google Scholar · profile coming soon</span>
+::: {#refs}
 :::
-:::
-
-## Citation identity
-
-**Xiang He**  
-[ORCID 0009-0009-5857-9100](https://orcid.org/0009-0009-5857-9100)
-
-<p class="small-note">A Google Scholar link is intentionally left as a placeholder until a profile is created.</p>
-

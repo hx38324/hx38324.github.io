@@ -1,0 +1,148 @@
+\documentclass[10pt,letterpaper]{article}
+
+% ---------- Packages ----------
+\usepackage[margin=0.68in]{geometry}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{microtype}
+\usepackage{fontawesome5}
+\usepackage[backend=biber,style=numeric,sorting=ydnt,maxbibnames=99]{biblatex}
+\addbibresource{publications.bib}
+
+% ---------- Typography ----------
+\definecolor{accent}{HTML}{1F4E79}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\pagestyle{empty}
+\renewcommand{\familydefault}{\sfdefault}
+
+\titleformat{\section}
+  {\large\bfseries\color{accent}}
+  {}{0pt}{}
+  [\vspace{-0.35em}\titlerule]
+\titlespacing*{\section}{0pt}{0.9em}{0.45em}
+
+\setlist[itemize]{leftmargin=1.15em,itemsep=0.18em,topsep=0.2em,parsep=0pt}
+
+% ---------- Reusable commands ----------
+\newcommand{\cvname}[1]{\begin{center}{\Huge\bfseries #1}\end{center}}
+\newcommand{\cvcontact}[1]{\begin{center}\small #1\end{center}}
+
+\newcommand{\cventry}[4]{%
+  \begin{tabularx}{\textwidth}{@{}Xr@{}}
+    \textbf{#1} & \textbf{#2} \\
+    \textit{#3} & \textit{#4}
+  \end{tabularx}\vspace{0.15em}
+}
+
+\newcommand{\cvsubentry}[2]{%
+  \begin{tabularx}{\textwidth}{@{}Xr@{}}
+    #1 & #2
+  \end{tabularx}
+}
+
+\newcommand{\cvskill}[2]{\textbf{#1:} #2\\}
+
+% ---------- Document ----------
+\begin{document}
+
+\cvname{Xiang He}
+\cvcontact{
+  Ph.D. Candidate in Geosciences, The University of Texas at Austin\\[0.15em]
+  \href{mailto:hexiang@utexas.edu}{\faEnvelope\ hexiang@utexas.edu}
+  \quad | \quad
+  \href{https://hx38324.github.io/}{\faGlobe\ hx38324.github.io}
+  \quad | \quad
+  \href{https://github.com/hx38324}{\faGithub\ github.com/hx38324}
+  % \quad | \quad \href{https://orcid.org/YOUR-ORCID}{ORCID}
+}
+
+\section{Research Profile}
+Computational geodynamicist studying how mantle flow, subduction, lithospheric deformation, and mantle rheology shape observable surface motions. I build physics-based numerical models and compare model predictions with geological and geophysical constraints, with current emphasis on Western U.S. vertical motion and Cascadia.
+
+\section{Education}
+\cventry{The University of Texas at Austin}{Aug. 2024--Present}
+{Ph.D. in Geosciences / Geophysics}{Austin, TX, USA}
+\begin{itemize}
+  \item Advisor: Prof. Thorsten W. Becker
+  \item Research focus: computational geodynamics, mantle flow, subduction, dynamic topography, vertical crustal motion
+\end{itemize}
+
+\cventry{University of Science and Technology of China}{Sep. 2020--Jun. 2024}
+{B.S. in Geophysics}{Hefei, Anhui, China}
+\begin{itemize}
+  \item Guo Moruo Scholarship; China National Scholarship
+\end{itemize}
+
+\section{Research Experience}
+\cventry{The University of Texas at Austin}{Aug. 2024--Present}
+{Graduate Researcher, Institute for Geophysics / Department of Earth and Planetary Sciences}{Austin, TX}
+\begin{itemize}
+  \item Develop global and regional geodynamic models to investigate mantle-flow contributions to long-wavelength surface deformation and vertical motion.
+  \item Current project: construct Cascadia subduction and Western U.S. geodynamic models and evaluate predicted vertical motion against geophysical observations.
+  \item Design numerical experiments to test sensitivity to slab geometry, mantle rheology, density structure, and boundary conditions.
+  \item Run and analyze large-scale simulations using ASPECT/CitcomS and high-performance computing workflows; process model output with Python, GMT, and related tools.
+\end{itemize}
+
+\cventry{University of Illinois Urbana-Champaign}{May 2023--Oct. 2023}
+{Visiting Researcher, Department of Earth Science and Environmental Change}{Urbana, IL}
+\begin{itemize}
+  \item Conducted 3-D regional geodynamic modeling of intraplate deformation in East Asia under the supervision of Prof. Lijun Liu.
+\end{itemize}
+
+\cventry{University of Science and Technology of China}{Jan. 2023--Aug. 2023}
+{Undergraduate Researcher, School of Earth and Space Sciences}{Hefei, China}
+\begin{itemize}
+  \item Modeled planetary crust formation and thermal-mechanical evolution under the supervision of Prof. Wei Leng.
+\end{itemize}
+
+\cventry{University of Science and Technology of China}{Apr. 2022--Jun. 2024}
+{Undergraduate Researcher, School of Earth and Space Sciences}{Hefei, China}
+\begin{itemize}
+  \item Investigated plume--subduction interactions and the influence of African mantle dynamics on Tethyan evolution under the supervision of Prof. Jinshui Huang.
+\end{itemize}
+
+\section{Publications}
+% Keep publication metadata ONLY in publications.bib.
+% Accepted/in-press papers can use keywords={accepted} in the BibTeX entry.
+\nocite{*}
+\printbibliography[heading=none]
+
+\section{Selected Research Themes}
+\begin{itemize}
+  \item \textbf{Western U.S. vertical motion and Cascadia:} subduction-system dynamics, mantle flow, dynamic topography, and comparison with surface observations.
+  \item \textbf{Mantle rheology and plate motion:} sensitivity of plate-scale deformation and surface observables to mantle viscosity structure and density heterogeneity.
+  \item \textbf{Subduction and plume dynamics:} numerical models of single/double subduction, plume--plate interactions, and long-term tectonic evolution.
+\end{itemize}
+
+\section{Technical Skills}
+\cvskill{Programming}{Python, C, Fortran, MATLAB, shell scripting}
+\cvskill{Geodynamic / Geophysical Software}{ASPECT, CitcomS, GPlates, GMT / PyGMT, ParaView}
+\cvskill{Scientific Computing}{HPC workflows, MPI-based simulations, Linux, Git, numerical modeling, inverse problems, data--model comparison}
+\cvskill{Methods}{Finite-element geodynamics, sensitivity analysis, geophysical data processing, visualization}
+
+\section{Awards \& Honors}
+\cvsubentry{Graduate Fellowship, The University of Texas at Austin}{2024--2025}
+\cvsubentry{Guo Moruo Scholarship, USTC}{2024}
+\cvsubentry{China National Scholarship (top 0.2\% in China)}{2023}
+\cvsubentry{Yang Yongman Scholarship, USTC}{2023}
+\cvsubentry{USTC Outstanding Student Scholarship, Gold Medal (top 3\%)}{2022}
+\cvsubentry{USTC Outstanding Student Scholarship, Silver Medal (top 10\%)}{2021}
+\cvsubentry{Zhao Jiuzhang Earth Science Honored Class Scholarship}{2021, 2022}
+
+\section{Teaching}
+\cventry{University of Science and Technology of China}{Mar. 2023--Jun. 2023}
+{Teaching Assistant, Electromagnetism A (PHYS1004A.04.2023SP)}{Hefei, China}
+Instructor: Prof. Gan Qin
+
+% ---------- Optional future sections ----------
+% \section{Presentations}
+% \section{Professional Service}
+% \section{Open-Source Software / Data}
+% \section{Professional Memberships}
+% \section{References}
+
+\end{document}
