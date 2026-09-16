@@ -19,16 +19,18 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global/global}
-    \entry{he2026science}{article}{}{}
+    \entry{gianni2026science}{article}{}{}
       \name{author}{4}{}{%
-        {{hash=77ad17edf535cf24078b600ade8dfa09}{%
+        {{hash=8822a9ebf24f0b9498c80d2a082d61ca}{%
            family={Gianni},
            familyi={G\bibinitperiod},
-           given={G.*},
+           given={G.},
            giveni={G\bibinitperiod}}}%
-        {{hash=a217fff81be9079bd7707640475fd82d}{%
-           family={\textbf{He,\bibnamedelimb X.*}},
-           familyi={H\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=b5fceee09cbf412999a05dbeffc3dd5b}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
         {{hash=594538bb19b39e71576d9cb660781f26}{%
            family={Becker},
            familyi={B\bibinitperiod},
@@ -40,14 +42,14 @@
            given={C.},
            giveni={C\bibinitperiod}}}%
       }
-      \strng{namehash}{8eed25cae19e49839614b1759c745bbb}
-      \strng{fullhash}{804121312b9b1b4db6eaaafab67c78f4}
-      \strng{fullhashraw}{804121312b9b1b4db6eaaafab67c78f4}
-      \strng{bibnamehash}{804121312b9b1b4db6eaaafab67c78f4}
-      \strng{authorbibnamehash}{804121312b9b1b4db6eaaafab67c78f4}
-      \strng{authornamehash}{8eed25cae19e49839614b1759c745bbb}
-      \strng{authorfullhash}{804121312b9b1b4db6eaaafab67c78f4}
-      \strng{authorfullhashraw}{804121312b9b1b4db6eaaafab67c78f4}
+      \strng{namehash}{d4d03fee323a12eaf132e41764a02779}
+      \strng{fullhash}{2c9946b5e13a3f9d0d5ec6628a6579e4}
+      \strng{fullhashraw}{2c9946b5e13a3f9d0d5ec6628a6579e4}
+      \strng{bibnamehash}{2c9946b5e13a3f9d0d5ec6628a6579e4}
+      \strng{authorbibnamehash}{2c9946b5e13a3f9d0d5ec6628a6579e4}
+      \strng{authornamehash}{d4d03fee323a12eaf132e41764a02779}
+      \strng{authorfullhash}{2c9946b5e13a3f9d0d5ec6628a6579e4}
+      \strng{authorfullhashraw}{2c9946b5e13a3f9d0d5ec6628a6579e4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.15)  16 SEP 2026 01:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.15)  16 SEP 2026 10:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -607,15 +607,15 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22175 strings out of 467441
- 398039 string characters out of 5424496
+ 22177 strings out of 467441
+ 398073 string characters out of 5424496
  1290482 words of memory out of 5000000
  51244 multiletter control sequences out of 15000+600000
- 633154 words of font info for 83 fonts, out of 8000000 for 9000
+ 633219 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,8n,79p,1233b,1162s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\94273\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk><D:/Miktex/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><D:/Miktex/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmss10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmss9.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on cv.pdf (2 pages, 94889 bytes).
+Output written on cv.pdf (2 pages, 94392 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
