@@ -75,15 +75,14 @@ Instructor: Prof. Gan Qin
 ::: {.skill-group}
 <span class="fact-label">Programming</span>
 
-C · MATLAB · Fortran · Python
+C/C++ · MATLAB · Fortran · Python
 :::
 
 ::: {.skill-group}
 <span class="fact-label">Software</span>
 
-CitcomS · GMT6 · ASPECT · GPlates
+ASPECT · CitcomS · GMT6 · GPlates
 :::
 :::
 
-<p class="small-note">This web CV summarizes the attached September 2024 document. The downloadable PDF preserves the original full wording and layout.</p>
-
+<p class="small-note">This web CV summarizes the attached CV document. The downloadable PDF preserves the original full wording and layout.</p>
