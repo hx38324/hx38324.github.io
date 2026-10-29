@@ -29,7 +29,7 @@ Setting up global mantle-flow models to investigate the deep mantle's contributi
 ### Western Pacific double-subduction drives Gulf of California rifting
 
 ::: {.project-cover}
-![Modeled horizontal lithospheric stress across the Pacific plate. Red is compression, blue is extension; the inset highlights the Gulf of California.](assets/projects/pacific-stress-globe.webp){fig-alt="Globe centered on the Pacific Ocean colored by modeled horizontal stress, with strong compression near the western Pacific subduction zones, extension in the central-west Pacific, and an inset zooming into the Gulf of California."}
+![Perspective view of modeled horizontal lithospheric stress across the North Pacific: brown indicates extension and blue indicates compression, with red highlighting the additional extension in the Gulf of California. Insets zoom into the western Pacific double-subduction system (left) and the Gulf of California (right).](assets/projects/pacific-stress-perspective.webp){fig-alt="Perspective view of the North Pacific colored by modeled horizontal lithospheric stress (brown for extension, blue for compression, red for the additional extension in the Gulf of California), with circular insets magnifying the western Pacific subduction zones on the left and the Gulf of California on the right."}
 :::
 
 **UT Austin Institute for Geophysics · Texas, US**  
