@@ -20,6 +20,26 @@ Advised by Prof. Thorsten Becker
 Setting up global mantle-flow models to investigate the deep mantle's contribution to surface vertical signals.
 :::
 
+::: {.project-entry .project-featured}
+::: {.project-meta}
+<span class="status-chip">Published · Science 2026</span>
+<span>Feb 2025–Jul 2026</span>
+:::
+
+### Western Pacific double-subduction drives Gulf of California rifting
+
+::: {.project-cover}
+![Modeled horizontal lithospheric stress across the Pacific plate. Red is compression, blue is extension; the inset highlights the Gulf of California.](assets/projects/pacific-stress-globe.webp){fig-alt="Globe centered on the Pacific Ocean colored by modeled horizontal stress, with strong compression near the western Pacific subduction zones, extension in the central-west Pacific, and an inset zooming into the Gulf of California."}
+:::
+
+**UT Austin Institute for Geophysics · Texas, US**  
+Advised by Prof. Thorsten Becker, in collaboration with G. Gianni and C. Faccenna
+
+Set up a global reference geodynamic model to evaluate the velocity field and stress state of the lithosphere. Comparing double- and single-subduction configurations showed that the western Pacific double-subduction system imparts about 15 MPa of additional extensional stress on the Gulf of California, helping drive its rifting.
+
+[Read the paper in *Science*](https://doi.org/10.1126/science.aef5187){.btn .btn-outline-primary .btn-sm}
+:::
+
 ::: {.project-entry}
 ::: {.project-meta}
 <span>Research experience</span>
